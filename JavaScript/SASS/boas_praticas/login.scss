@@ -1,0 +1,10 @@
+#login-text {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: blue;
+}
+.container {
+  p {
+    @include text-style($primary-color, 22px, Arial);
+  }
+}

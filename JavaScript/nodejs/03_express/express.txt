@@ -1,0 +1,19 @@
+ExpressJS: um framework minimalista que nao se procupa em definir padroe de desenvolvimento, 
+opera atraves de middlewares, 
+segue um padrao Chain of Responsability, 
+preocupa apenas com requisicao e resposta deixando o fluxo de dados a escolha do dev
+
+*Chain of Responsability: permite com que objetos sejam encadeados, fazendo com que cada objeto possa enviar uma resposta, caso não possa ele passa para a proxima chain
+
+
+*Tipos de associaçoes em MongoDB: one-to-one, one-to-many, many-to-many
+
+
+*Mongoose:
+-db.checklist.insert({})
+-db.checklist.save({})
+-db.checklist.find()
+-db.checklist.update()
+-db.checklist.deleteOne({})
+
+*EJS: permite a criação de uma página dinâmica(não estática)

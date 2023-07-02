@@ -1,0 +1,31 @@
+li {
+  color: green;
+  border: 2px dashed white;
+}
+
+h1 {
+  font-size: 50px;
+  background-color: red;
+  border-color: green;
+  border-width: 2px;
+  border-style: solid;
+}
+
+body {
+  background-image: url("https://stsci-opo.org/STScI-01FM5RS3443CPSJXXMCWXTSHYG.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moon {
+  color: yellow;
+}
+
+.big-text {
+  font-size: 40px;
+  color: white;
+}
+
+#moon {
+  color: aqua;
+}

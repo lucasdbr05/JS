@@ -1,0 +1,2 @@
+//Deixa em apenas uma linha, agilizando o processo
+sass --watch a.scss:a.css --style compressed

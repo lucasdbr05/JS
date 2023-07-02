@@ -1,0 +1,4 @@
+MVC: Model-View-Controller
+-Model: lida com dados, desde sua leitura, armazenamento e validacao (atua mais proximo do banco de dados)
+-View: exibicao de dados para o usuario (para o model)
+-Controller: recebe as reqisicoes das views (renderiza) e chama o model correto

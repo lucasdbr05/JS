@@ -4,12 +4,14 @@
   "description": "",
   "main": "first.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "tsc-watch": "tsc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.196",
     "typescript": "^5.0.4"
   }
 }

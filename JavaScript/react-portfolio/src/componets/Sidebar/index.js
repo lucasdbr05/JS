@@ -44,17 +44,18 @@ const Sidebar = () => (
     <ul>
       <li>
         <a rel="noreferrer" target="_blank" href="https://codeforces.com/">
-          <FontAwesomeIcon icon={faLinkedin} color="4d4d4e" />
+          <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
         </a>
         <a rel="noreferrer" target="_blank" href="https://codeforces.com/">
-          <FontAwesomeIcon icon={faGithub} color="4d4d4e" />
+          <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
         </a>
         <a rel="noreferrer" target="_blank" href="https://codeforces.com/">
-          <FontAwesomeIcon icon={faYoutube} color="4d4d4e" />
+          <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
         </a>
         <a rel="noreferrer" target="_blank" href="https://codeforces.com/">
-          <FontAwesomeIcon icon={faInstagram} color="4d4d4e" />
+          <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
         </a>
+        
       </li>
     </ul>
   </div>
